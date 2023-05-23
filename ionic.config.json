@@ -1,0 +1,7 @@
+{
+  "name": "mythkeeper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
